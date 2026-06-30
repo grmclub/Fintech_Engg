@@ -1,0 +1,48 @@
+
+
+-------------------------------------------------
+diagrams for technology architecture
+
+1. Data & Infrastructure
+    • Prompt: "An isometric architectural diagram of a cloud-native microservices cluster. Show individual containers as labeled cubes connected by glowing nodes. Include a central load balancer, a distributed database in the back, and an API gateway at the front. High-tech aesthetic, soft blue and grey color palette, white background, clean lines, professional engineering documentation style."
+    • Prompt: "Isometric view of a multi-region data center architecture. Show server racks in rows, fiber optic lines connecting them in a grid, and a cloud overlay icon hovering above. Use a clean, modern aesthetic with a focus on high availability and redundancy."
+2. Networking & Traffic Flow
+    • Prompt: "An isometric diagram illustrating a secure network perimeter. Show a firewall protecting a server farm, with glowing data packets flowing from the public internet (left) through the firewall into the internal network (right). Use color coding to distinguish between public, DMZ, and internal zones. Vector art style."
+    • Prompt: "Isometric representation of an Edge Computing architecture. Show a central cloud server icon connected via lines to multiple small regional edge nodes located around a stylized map of a city. The lines should look like data streams. High contrast, minimalist."
+3. Application & Software Stack
+    • Prompt: "An isometric layered architecture diagram for a web application. Layers should be clearly stacked vertically: Frontend (top layer), API/Service Layer (middle), and Database (bottom). Each layer is made of modular, labeled blocks. Soft lighting, pastel color scheme, clean vector graphics, 3D perspective."
+    • Prompt: "Isometric diagram of a CI/CD pipeline. Show a series of modular stations: Code Repository, Build Server, Testing Suite, and Production Deployment. A conveyor belt or track connects them. Show a code icon moving through the process. Clean, white background, technical schematic style."
+4. High-Level Concepts (HFT/Systems)
+    • Prompt: "An isometric conceptual diagram of a high-frequency trading system architecture. From left to right: Market data feed (antenna icon), Parsing engine (server icon), Strategy logic block (processor icon), and Execution gateway (rocket icon). Use glowing lines to represent sub-microsecond data flow. Professional, sleek, dark-mode aesthetic with neon accents."
+
+
+-------------------------------------------------
+
+================================================
+C4 Level                |Focus
+================================================
+Level 1: System Context |The system’s place in the world
+Level 2: Container      |The high-level technical building blocks
+Level 3: Component      |Implementation details within a container
+Level 4: Code           |Detailed design (classes/functions)
+================================================
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
